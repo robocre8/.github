@@ -63,7 +63,9 @@ Design and develop mobile robot simulation in ROS2. Also, hardware integration, 
 **Robotics Tutorials:**
 <br/>
 Do you need a private or workshop tutor to learn mobile robotics using ROS2?
+<br/>
 You're in luck and the right place.
+<br/>
 You can just contact me using the links provided above.
 > [!NOTE]
 > I'll also be posting cool robotics tutorials on YouTube soon.
