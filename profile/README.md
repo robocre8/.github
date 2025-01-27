@@ -1,6 +1,4 @@
-### 👋 Welcome to robocre8
-
-#
+# 👋 Welcome to robocre8
 
 ##### Let's help you build your mobile robot
 **Founder**: Samuel Obiagba - [samukothings](https://github.com/samuko-things)
