@@ -9,10 +9,9 @@
 > or through the robocre8 email - mail.robocrea8@gmail.com
 > still working on the robocre8 site but for now, check my website [samukothings.com](https://samukothings.com)
 <br/>
+<br/>
 
-#
-
-### Mission:
+### MISSION
 
 #
 
@@ -29,41 +28,31 @@ From Nigeria to Africa, and the World!
 <br/>
 <br/>
 
-#
-
-### Solutions / Products
+### SOLUTIONS/PRODUCTS
 
 #
 
-**MOBO-BOT:**   [view documentation]()
+**MOBO-BOT:**
 <br/>
 an open-source differential drive ROS2-based educational robot (similar to the popular Turtlebot, Andino bot, limo robot, etc.) to learn advanced mobile robotics concepts such as `control`, `sensor-fusion`, `localization`, `navigation`, `perception`, `Artificial Intelligence`, etc.
-
-- It uses the [EPMC]() module and [EIMU]() module for its base control.
-- It has a simulation environment where algorithms can be tested before being implemented on the robot.
-- Learning robotics has never been more easy.
+<br/>
+[view documentation]()
 <br/>
 
-**EPMC Module (Easy PID Motor Controller):**  [view documentation]()
+**EPMC Module (Easy PID Motor Controller):**
 <br/>
 easy-to-use open-source hardware for precise speed control of any geared DC motor that uses a quadrature encoder. This product is essential and relevant in robotic applications as precise control is currently a non-negotiable aspect of any modern robotic system.
-
-- It easily integrates with ROS2 via serial communication (for ROS2 developers and advanced robotic applications)
-- It can also be used with Arduino (hence also good for hobbyists)
-- It can be used with Python or C++ robotic projects also
+<br/>
+[view documentation]()
 <br/>
 
-**EIMU Module (Easy IMU):**  [view documentation]()
+**EIMU Module (Easy IMU):**
 <br/>
 easy-to-use open-source advanced 9-axis IMU system based on the MPU9250 IMU. It includes features like easy calibration, configuring to use in any preferred reference frame (ENU, NED, and NWU), and providing accurate filtered ready-to-use orientation readings using the Madgwick filter.
-
-- It easily integrates with ROS2 via serial communication (for ROS2 developers and advanced robotic applications)
-- It can also be used with Arduino (hence also good for hobbyists)
-- It can be used with Python or C++ robotic projects also
+<br/>
+[view documentation]()
 <br/>
 <br/>
-
-#
 
 ### SERVICES
 
