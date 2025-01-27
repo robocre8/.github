@@ -7,7 +7,6 @@
 > or through the robocre8 email - mail.robocrea8@gmail.com
 > still working on the robocre8 site but for now, check my website [samukothings.com](https://samukothings.com)
 <br/>
-<br/>
 
 ## MISSION
 
