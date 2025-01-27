@@ -1,34 +1,22 @@
-# Welcome to robocre8
-### Build your advanced robotics project with ease
-- 👋 more info comming soon.
+# 👋 Welcome to robocre8
+#### Let's help you build your mobile robot
 
+#
+
+### Mission: 
+To empower individuals *(makers, hobbyists, robotics enthusiasts, students, etc.)* and organizations *(Schools, Universities, Integrators, etc.)* to build advanced mobile robotics systems (`hardware` or `simulation`) leveraging open-source frameworks such as **ROS2** and **Arduino**, and **AI** through simplified `solutions`, `tools`, `development` and `learning` processes.
+<br/>
+<br/>
+**robocre8** aims to revolutionize the field of advanced mobile robotics by easing the process of learning and building it (**Hardware** and **Simulation**)
+<br/>
+<br/>
+From Nigeria to Africa, and the World!
+
+#
+**Founder**: Samuel Obiagba - [samukothings](https://github.com/samuko-things)
+> [!NOTE]
+> For now, you can reach out to me via [LinkedIn](www.linkedin.com/in/samuel-obiagba-a61316196)
+> or through the robocre8 email - mail.robocrea8@gmail.com
+> still working on the robocre8 site but for now, check my website [samukothings.com](https://samukothings.com)
 <!---
-## Welcome to Samuko Things 👋
 
-**Providing Easy-To-Use Advanced Control Solutions For Your Robotics Project**
-</br></br>
-**ROS2 | Arduino | Python | C++**
-</br></br>
-👩‍💻 My Personal Github Page - [samukothings](https://github.com/samuko-things)
-</br>
-👩‍💻 My Website - [samukothings.com](https://samukothings.com/)
-</br>
-Follow me on [linkedIn](www.linkedin.com/in/samuel-obiagba-a61316196) and [X](https://x.com/Samuel_Obiagba)
-</br></br>
-Checkout My Key Projects:
-* [**Easy PID Motor Controller (epmc)**](https://github.com/samuko-things-company/epmc_documentation) - An Easy-to-use PID Motor controller for controlling the speed of geared DC motors (with quadrature encoders) via angular speed commands rather than the traditional PWM commands.
-* [**Easy IMU (eimu)**](https://github.com/samuko-things-company/eimu_documentation) - An Easy-to-use advanced IMU system that offers easy calibration and Madgwick filter setup, ensuring you get filtered orientation readings with easy integration into your preferred project.
-* [**Mobo Bot**](https://github.com/samuko-things-company/mobo_bot) - An educational differential drive mobile robot for learning mobile robotics in **ROS2**. It uses the [Easy PID Motor Controller](https://github.com/samuko-things-company/epmc_documentation) and the [Easy IMU](https://github.com/samuko-things-company/eimu_documentation) for its base control.
-
-- 👋 Hi, I’m @robocre8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-<!---
-robocre8/robocre8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
