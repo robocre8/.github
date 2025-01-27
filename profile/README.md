@@ -9,9 +9,7 @@
 <br/>
 <br/>
 
-### MISSION
-
-#
+## MISSION
 
 To empower individuals *(makers, hobbyists, robotics enthusiasts, students, etc.)* and organizations *(Schools, Universities, Integrators, etc.)* to build advanced mobile robotics systems (`hardware` or `simulation`) leveraging open-source frameworks such as **ROS2** and **Arduino**, and **AI** through simplified `solutions`, `tools`, `development` and `learning` processes.
 <br/>
@@ -26,9 +24,7 @@ From Nigeria to Africa, and the World!
 <br/>
 <br/>
 
-### SOLUTIONS/PRODUCTS
-
-#
+## SOLUTIONS / PRODUCTS
 
 **MOBO-BOT:**
 <br/>
@@ -52,9 +48,7 @@ easy-to-use open-source advanced 9-axis IMU system based on the MPU9250 IMU. It 
 <br/>
 <br/>
 
-### SERVICES
-
-#
+## SERVICES
 
 **Robotics Consulting Services:**
 <br/>
