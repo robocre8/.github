@@ -29,21 +29,21 @@ From Nigeria to Africa, and the World!
 <br/>
 an open-source differential drive ROS2-based educational robot (similar to the popular Turtlebot, Andino bot, limo robot, etc.) to learn advanced mobile robotics concepts such as `control`, `sensor-fusion`, `localization`, `navigation`, `perception`, `Artificial Intelligence`, etc.
 <br/>
-[view documentation]()
+[view documentation](https://github.com/robocre8/mobo_bot)
 <br/>
 
 **EPMC Module (Easy PID Motor Controller):**
 <br/>
 easy-to-use open-source hardware for precise speed control of any geared DC motor that uses a quadrature encoder. This product is essential and relevant in robotic applications as precise control is currently a non-negotiable aspect of any modern robotic system.
 <br/>
-[view documentation]()
+[view documentation](https://github.com/robocre8/epmc_documentation)
 <br/>
 
 **EIMU Module (Easy IMU):**
 <br/>
 easy-to-use open-source advanced 9-axis IMU system based on the MPU9250 IMU. It includes features like easy calibration, configuring to use in any preferred reference frame (ENU, NED, and NWU), and providing accurate filtered ready-to-use orientation readings using the Madgwick filter.
 <br/>
-[view documentation]()
+[view documentation](https://github.com/robocre8/eimu_documentation)
 <br/>
 <br/>
 
