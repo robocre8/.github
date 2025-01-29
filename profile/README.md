@@ -60,7 +60,7 @@ Providing technical support/customized training to students, researchers, organi
 Design and develop mobile robot simulation in ROS2. Also, hardware integration, embedded control, and system architecture design for mobile robots in ROS2.
 <br/>
 
-**Robotics Tutorials:**
+**Robotics Instructor:**
 <br/>
 Do you need a private or workshop tutor to learn mobile robotics using ROS2?
 <br/>
