@@ -6,7 +6,7 @@
 > [!NOTE]
 > For now, you can reach out to me via [LinkedIn](www.linkedin.com/in/samuel-obiagba-a61316196)
 > or through the robocre8 email - mail.robocrea8@gmail.com
-> still working on the robocre8 site but for now, check my website [samukothings.com](https://samukothings.com)
+> still working on the robocre8 site but for now, check the [robocre8 website](https://robocre8.gitbook.io/robocre8)
 <br/>
 
 ## MISSION
