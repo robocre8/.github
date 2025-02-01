@@ -1,6 +1,7 @@
 # 👋 Welcome to robocre8
+![robocre8_logo_full-removebg-preview](https://github.com/user-attachments/assets/0fb71d1f-4223-47e9-95a5-2c59254138f2)
 
-##### Let's help you build your mobile robot
+##### Empowering creators, Simplifying Robotics
 **Founder**: Samuel Obiagba - [samukothings](https://github.com/samuko-things)
 > [!NOTE]
 > For now, you can reach out to me via [LinkedIn](www.linkedin.com/in/samuel-obiagba-a61316196)
