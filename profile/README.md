@@ -1,5 +1,6 @@
 # 👋 Welcome to robocre8
-![robocre8_logo_full-removebg-preview](https://github.com/user-attachments/assets/0fb71d1f-4223-47e9-95a5-2c59254138f2)
+
+![robocre8_support_logo (1)](https://github.com/user-attachments/assets/8c36cb31-a6fd-4222-a369-184594881455)
 
 #### Empowering creators, Simplifying Robotics
 
